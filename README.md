@@ -23,6 +23,7 @@
 | <video src="https://github.com/user-attachments/assets/18e8cf29-4d94-464b-a037-ade7cd490adb" width="350"></video> | <video src="https://github.com/user-attachments/assets/40a56c57-2b51-4917-ac50-da9a421592f0" width="350"></video> |
 
 </div>
+
 ---
 
 ## ⚙️ How It Works
